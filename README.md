@@ -8,11 +8,16 @@ This project is a dynamic and interactive sales dashboard developed in Microsoft
 
 Here is a short demonstration of the dashboard's interactivity. The charts and KPIs dynamically update as different filters are selected using the slicers on the left.
 
-![Dashboard Demo GIF]("C:\Users\Sharmake\OneDrive\Pictures\Screenshots 1\Screenshot 2025-08-31 012754.png")
+![Dashboard Demo GIF]
+<img width="1899" height="988" alt="Screenshot 2025-08-31 012754" src="https://github.com/user-attachments/assets/57431f4b-c0b2-4003-9bdb-e266d3de731d" />
 
 ---
 *Alternative: If you have a full video on YouTube, you can link it like this:*
-[![Dashboard Demo Video]("C:\Users\Sharmake\OneDrive\Videos\Screen Recordings\Screen Recording 2025-08-31 012256.mp4")
+[![Dashboard Demo Video]
+
+
+https://github.com/user-attachments/assets/de2fa3bd-3b63-4e2d-baf4-160580b4e00e
+
 
 ---
 
@@ -50,3 +55,4 @@ Created by **[Your Name]**
 
 * **LinkedIn:** `https://www.linkedin.com/in/yourprofile/`
 * **Portfolio:** `https://yourportfolio.carrd.co/`
+
